@@ -1,0 +1,962 @@
+ Personal Portfolio Website — Favour Falade
+
+**Project type:** Personal portfolio, professional identity and storytelling website  
+**Design direction:** Editorial, artistic, sophisticated, experimental and interactive  
+**Recommended technology:** Next.js, TypeScript, Tailwind CSS and Motion  
+**Deployment preference:** Vercel  
+**Primary objective:** Build a distinctive, visually compelling personal website that communicates my journey, intellectual interests, research, projects, leadership experiences and future direction.
+
+---
+
+# 1. PROJECT OVERVIEW
+
+I want to build a personal portfolio website that goes beyond the conventional technical portfolio.
+
+I do not want a generic website that simply displays my biography, skills, projects and contact information.
+
+I want a website that tells my story.
+
+The website should communicate the journey of a Microbiology graduate who developed an interest in data science, explored the intersection of biology and technology, began building AI-powered solutions, became involved in technology communities and is now developing an interest in computational biology, bioinformatics and AI research.
+
+It should also communicate my personality, curiosity, values, creativity and willingness to explore ideas across different disciplines.
+
+The experience should feel like exploring the mind and journey of a person, rather than reading a digital CV.
+
+**The central concept is: THE IN-BETWEEN.**
+
+The concept represents the intersections that define my journey:
+
+- Biology and technology.
+- Science and artificial intelligence.
+- Research and practical problem-solving.
+- Local challenges and global possibilities.
+- Individual learning and community development.
+- Faith, curiosity and data.
+
+The website should make these intersections visible through its storytelling, visual language, content structure and interactions.
+
+# 2. ABOUT THE WEBSITE OWNER
+
+## Professional introduction
+
+My name is Favour Falade.
+
+I am a Microbiology graduate from Ekiti State University, Nigeria, an independent data science practitioner and an interdisciplinary researcher interested in applying artificial intelligence and computational approaches to biological and public health challenges.
+
+My interests include:
+
+- Artificial intelligence and machine learning.
+- Computational biology and bioinformatics.
+- Antimicrobial resistance.
+- Infectious disease research.
+- Genomic surveillance.
+- AI applications in African healthcare.
+- Food microbiology and food systems.
+- African language technology.
+- Data visualization and analytical storytelling.
+
+I am particularly interested in how technology can help address scientific and societal problems in African contexts.
+
+## My background and journey
+
+I initially wanted to study Medicine but eventually studied Microbiology at Ekiti State University.
+
+My undergraduate experience introduced me to the biological world and strengthened my interest in understanding microorganisms, infectious diseases and their effects on human health.
+
+My experience studying in a resource-constrained academic environment also influenced how I approached learning. Access to some laboratory, computational and bioinformatics resources was limited, so I became increasingly interested in alternative ways to investigate scientific questions and solve problems.
+
+This contributed to my exploration of data science and machine learning.
+
+I began developing technical skills independently and gradually became interested in applying computational methods to biological questions.
+
+My journey has therefore involved moving between disciplines, learning independently, experimenting with ideas and discovering opportunities at the intersection of science and technology.
+
+The website should tell this story honestly and thoughtfully. It should not suggest that I have mastered every field I am interested in.
+
+# 3. VISUAL IDENTITY AND DESIGN DIRECTION
+
+The visual identity is extremely important.
+
+I want a combination of three visual personalities:
+
+1. Editorial and artistic.
+2. Minimal, sophisticated and understated.
+3. Experimental, interactive and futuristic.
+
+These should work together without making the website visually chaotic.
+
+## General aesthetic
+
+The website should feel:
+
+- Intelligent.
+- Beautiful.
+- Thoughtful.
+- Personal.
+- Contemporary.
+- Research-oriented.
+- Creative.
+- Professional.
+- Distinctive.
+
+I want a design that feels like an independent editorial publication combined with a modern researcher's digital workspace.
+
+Avoid the appearance of a typical software developer portfolio.
+
+## Colour palette
+
+My preferred starting palette:
+
+| Colour | Suggested use |
+|---|---|
+| Warm ivory / off-white | Primary background |
+| Deep charcoal | Main typography |
+| Muted cobalt blue | Primary accent |
+| Soft gold / muted amber | Secondary accent |
+| Warm grey | Supporting text and dividers |
+| Light cream | Secondary content sections |
+
+Suggested starting colours:
+
+- Ivory: #F5F2EA
+- Charcoal: #252722
+- Muted blue: #536B91
+- Soft gold: #B69A62
+- Warm grey: #8A887F
+- Light cream: #EBE6DA
+
+These are starting references, not rigid restrictions. The developer/designer can refine the palette while maintaining the overall personality.
+
+I do not want excessive gradients, neon colours, oversaturated backgrounds or unnecessary colour combinations.
+
+## Typography
+
+Use a combination of:
+
+- An expressive serif font for major headlines and editorial statements.
+- A clean sans-serif font for body text, navigation, captions and technical information.
+- Optional monospace typography for small research labels, dates, technical annotations and project metadata.
+
+The typography should be expressive without sacrificing readability.
+
+Large headlines, generous spacing and deliberate text hierarchy are encouraged.
+
+## Images and photography
+
+Authentic photographs should play a major role in the website.
+
+I will provide photographs of myself, including professional portraits and photographs from conferences, presentations, work and community activities.
+
+Please avoid replacing personal photographs with generic stock images.
+
+Scientific and technical visuals may be used to complement project descriptions, but they should be relevant and purposeful.
+
+Use image placeholders until my actual photographs and project images are supplied.
+
+# 4. WEBSITE STRUCTURE AND INFORMATION ARCHITECTURE
+
+The website should contain the following main pages:
+
+1. Home
+2. My Story
+3. Research
+4. Projects
+5. Community and Leadership
+6. Contact
+
+The navigation should be clean and minimal.
+
+Suggested navigation:
+
+**Favour Falade | Home | My Story | Research & Projects | Community | Contact**
+
+The CV should also be accessible through a clearly visible button.
+
+The homepage should provide a condensed but compelling introduction to all the major dimensions of my work.
+
+Detailed information should be available on individual pages.
+
+---
+
+# 5. HOMEPAGE: THE MAIN STORYTELLING EXPERIENCE
+
+The homepage is the most important page.
+
+It should feel immersive and should guide visitors through a carefully structured narrative.
+
+## Section 1: Hero / First impression
+
+This is the first screen visitors see.
+
+It should immediately communicate who I am and what I explore.
+
+Suggested headline:
+
+"A curious mind, exploring the intersections of science and technology."
+
+Alternative headline:
+
+"Where biology meets data, and curiosity becomes discovery."
+
+Suggested introductory text:
+
+"I'm Favour Falade, a Microbiology graduate, independent data science practitioner and researcher interested in applying artificial intelligence to biological and public health challenges."
+
+Include:
+
+- My name.
+- A short professional introduction.
+- A large, beautiful portrait of me.
+- A subtle indication to scroll.
+- A button to explore my journey.
+- A button to explore my work.
+
+The hero should be visually striking without being overcrowded.
+
+## Section 2: An introduction to my world
+
+Introduce the different areas I explore.
+
+Potential visual structure:
+
+- Biological sciences.
+- Artificial intelligence.
+- Research.
+- Data science.
+- Community.
+- Creativity.
+
+This could use an interactive visual arrangement, animated typography or a creative editorial composition.
+
+The goal is to show that these interests are interconnected.
+
+## Section 3: The story behind the work
+
+Introduce my academic background and transition from Microbiology to data science.
+
+Suggested heading:
+
+"Some journeys are not linear. Mine has been one of discovery."
+
+Tell the story of:
+
+- My initial interest in Medicine.
+- My undergraduate experience studying Microbiology.
+- My experiences at Ekiti State University.
+- My growing interest in computational approaches to scientific problems.
+- My self-learning journey in data science.
+- My exploration of AI and machine learning.
+- My growing interest in bioinformatics and interdisciplinary research.
+
+This section should link to the full My Story page.
+
+## Section 4: Selected research and projects
+
+Showcase selected projects in a visually rich layout.
+
+Do not use a generic grid of identical cards.
+
+Each project should have:
+
+- A distinctive image or visual.
+- Project title.
+- Short description.
+- Relevant field.
+- Project status.
+- A link to explore the full project.
+
+Featured projects:
+
+1. Machine Learning and Carbapenem Resistance Prediction.
+2. Afara — Ekiti Yoruba-English Language Technology.
+3. AI for Food Spoilage Detection.
+4. God's Dataset.
+
+The featured research should have prominence, but the other projects should not be treated as insignificant.
+
+## Section 5: Research and scientific curiosity
+
+Introduce the scientific questions that motivate my work.
+
+Emphasize:
+
+- Antimicrobial resistance.
+- Machine learning in infectious disease research.
+- Genomic surveillance.
+- Computational biology.
+- Bioinformatics.
+- AI for African health systems.
+
+Link to the detailed Research page.
+
+## Section 6: Community and impact
+
+Show that my journey extends beyond individual projects.
+
+Introduce my involvement in technology communities, teaching, mentorship and leadership.
+
+Use selected photographs and meaningful impact figures where verified.
+
+Link to the Community page.
+
+## Section 7: A journey in progress
+
+Include an interactive timeline of important milestones.
+
+Suggested milestones:
+
+**2021 — Beginning my undergraduate journey**
+
+Started studying Microbiology at Ekiti State University.
+
+**2024 — Community and technology**
+
+Became actively involved in growing the Data Science Nigeria EKSU campus community and expanding my technical interests.
+
+**2025 — Academic completion and transition**
+
+Completed undergraduate examinations and continued developing interdisciplinary technical projects.
+
+**2026 — Research and new opportunities**
+
+Graduated from Ekiti State University in April.
+
+Presented Afara at Deep Learning Indaba 2026.
+
+Received acceptance for my CPHIA 2026 research abstract on genomic relatedness and machine learning estimates of carbapenem resistance prediction.
+
+Continued exploring AI, research and community development.
+
+**2027 and beyond — The next chapter**
+
+Further research, postgraduate opportunities, bioinformatics, AI for health and continued interdisciplinary exploration.
+
+The timeline should be expandable as new milestones occur.
+
+Please do not invent additional dates or achievements.
+
+## Section 8: Closing statement
+
+End the homepage with a thoughtful statement.
+
+Suggested text:
+
+"I'm interested in the questions we haven't answered yet, the problems we haven't solved, and the possibilities that emerge when different fields meet."
+
+Include contact and professional social links.
+
+---
+
+# 6. MY STORY PAGE
+
+This page should provide a more detailed account of my journey.
+
+It should feel personal, reflective and engaging.
+
+Suggested sections:
+
+### A. Before the intersection
+
+My original interest in Medicine, my decision to study Microbiology and the beginning of my academic journey.
+
+### B. Learning to see the microscopic world
+
+My undergraduate experience at EKSU, my exposure to microbiology and my interest in infectious diseases.
+
+Include my undergraduate research project:
+
+**Project title:** Antimicrobial screening of unfermented Parkia biglobosa seed extract against Staphylococcus aureus isolated from a conjunctivitis patient.
+
+The extraction solvent was water.
+
+Methods included:
+
+- Microtiter Plate Method.
+- Paper Disk Diffusion.
+- Agar Well Diffusion.
+
+This should be presented as undergraduate research, not as a published paper unless publication is subsequently confirmed.
+
+### C. Discovering data science
+
+Explain how I began independently exploring data science and computational approaches.
+
+Include my progression through data analysis, visualization and machine learning.
+
+### D. Crossing disciplines
+
+Explain how my interests developed towards AI applications in microbiology, infectious diseases, antimicrobial resistance and food systems.
+
+### E. Learning through community
+
+Discuss how communities, collaborations and teaching shaped my development.
+
+### F. Still becoming
+
+A closing section about curiosity, continued learning and future research directions.
+
+I want this page to feel human, not like a formal academic biography.
+
+---
+
+# 7. RESEARCH PAGE
+
+This page should establish my research interests and showcase actual research work.
+
+## Featured research
+
+**Title:**
+
+"Genomic Relatedness Alters Machine Learning Estimates of Carbapenem Resistance Prediction: Implications for African Genomic Surveillance."
+
+Details:
+
+- Conference: CPHIA 2026.
+- Abstract ID: 2514.
+- Status: Abstract accepted.
+- Research area: Machine learning, antimicrobial resistance and genomic surveillance.
+- Track: Primary Health Care, digital transformation and AI-enabled health systems.
+
+The project investigates whether ignoring highly similar clonal genomes can inflate machine learning estimates of carbapenem resistance prediction performance.
+
+The research uses synthetic gene presence/absence profiles rather than full genomic sequences.
+
+Important methodological details include:
+
+- 188 profiles from 53 founder clones.
+- 75 near-identical descendants.
+- A 0.95 Jaccard similarity threshold for detecting near-identical profiles.
+- GroupKFold by clone to reduce leakage.
+- SMOTE applied within training folds.
+
+Verified cluster-aware AUC results:
+
+| Model | AUC |
+|---|---:|
+| Logistic Regression | 0.846 |
+| Linear SVM | 0.848 |
+| Random Forest | 0.761 |
+| XGBoost | 0.770 |
+
+The naive overall AUC was 0.818.
+
+These details should be used carefully and consistently with the final research poster or manuscript.
+
+Clearly distinguish the research methodology, synthetic data and the conclusions. Do not imply that the study used a real-world clinical genomic dataset.
+
+Include sections for:
+
+- Research question.
+- Background and motivation.
+- Methodology.
+- Results.
+- Public health relevance.
+- Limitations.
+- Implications for genomic surveillance.
+- Research materials and poster, when available.
+
+Include a dedicated space for future publications, preprints and conference presentations.
+
+Do not label an accepted conference abstract as a published journal article.
+
+## Other research interests
+
+Create a section for ongoing and developing research interests:
+
+- Machine learning for antimicrobial resistance.
+- AI in infectious disease surveillance.
+- Bioinformatics and microbiome research.
+- Computational biology.
+- AI for food safety and food microbiology.
+
+Clearly distinguish completed research, ongoing exploration and future interests.
+
+---
+
+# 8. PROJECTS PAGE
+
+This should be a visually distinctive project archive.
+
+Each project should have a dedicated case-study page.
+
+## Project 1: Afara
+
+**Description:**
+
+Afara is a language technology project exploring Yoruba-English translation with attention to Ekiti Yoruba dialect variations.
+
+The project aims to make language technology more inclusive of local linguistic contexts.
+
+My involvement includes leading a five-student team and contributing to the project's development and direction.
+
+Technology and components explored include:
+
+- NLLB for translation.
+- Whisper-based speech recognition.
+- Yoruba language data collection.
+- Text-to-speech exploration.
+- Streamlit application and integration.
+
+The project was presented at Deep Learning Indaba 2026.
+
+The website should communicate that Ekiti dialect data collection and project development are ongoing.
+
+## Project 2: God's Dataset
+
+**Description:**
+
+God's Dataset is a project at the intersection of faith, Scripture and data.
+
+Its mission is to encourage deeper engagement with Scripture through data exploration, visualization and analytical storytelling.
+
+Core concept:
+
+"Observing, not redefining. Revealing, not replacing."
+
+Include:
+
+- Scripture data exploration.
+- Bible visualizations.
+- Word studies.
+- Network graphs.
+- Biblical text analysis.
+
+Website: godsdataset.com
+
+Project platform: gods-dataset.lovable.app
+
+The visual treatment of this project can differ slightly from the main portfolio while retaining a consistent presentation.
+
+## Project 3: AI-powered food spoilage detection
+
+A computer vision project exploring how machine learning can distinguish fresh and spoiled food.
+
+The broader direction includes exploring spoilage stages, food quality assessment and potential shelf-life estimation.
+
+The website should distinguish between existing functionality and planned future features.
+
+## Project 4: Banking Analytics Dashboard
+
+A Power BI analytics project involving banking data.
+
+The dashboard explores customer distribution, lending and transactions.
+
+Known dataset/dashboard figures include:
+
+- 3,011 customers.
+- 22 Nigerian cities.
+- Data spanning 1955–2023.
+- ₦984 billion in loans.
+- ₦76.59 million in transactions.
+
+GitHub: github.com/FaladeF311/banking-analytics-dashboard
+
+Make the dashboard image prominent and provide a link to the repository.
+
+## Project 5: Biological AI Safety Audit
+
+A project exploring biological AI safety and related considerations.
+
+GitHub: github.com/FaladeF311/biological-ai-safety-audit
+
+The project page should explain its purpose and actual implementation based on the repository. Do not invent features or results.
+
+## Project case-study template
+
+Every project should use a consistent storytelling framework:
+
+1. Project introduction.
+2. The problem.
+3. Why the problem matters.
+4. The idea and motivation.
+5. My role and contributions.
+6. Technical approach.
+7. Tools and technologies.
+8. Challenges.
+9. Results and outcomes.
+10. What I learned.
+11. What comes next.
+12. Links to GitHub, demos, papers or other resources.
+
+Include a visible project status such as:
+
+- Completed.
+- Ongoing.
+- Research in progress.
+- Prototype.
+- Exploring.
+
+Use the correct status for each project.
+
+---
+
+# 9. COMMUNITY AND LEADERSHIP PAGE
+
+This page should demonstrate that my interests extend beyond technical work.
+
+I have been involved in technology communities, teaching, mentorship and initiatives that help people develop technical skills.
+
+## Data Science Nigeria EKSU
+
+I led/co-led the DSN EKSU campus network from May 2024 to December 2025 and handed over leadership in 2026.
+
+The community's reported achievements include:
+
+- Approximately 400 members.
+- More than 150 people trained.
+- Three international conference opportunities/participations.
+- Two hackathon winners.
+- Five internship or job outcomes.
+- Some members publishing or beginning their first research papers.
+
+These should be presented as community achievements, not personal achievements alone.
+
+My role should be accurately described as a leadership role within the campus network, not as the founder of Data Science Nigeria or the founder of DSN EKSU.
+
+## Other experiences
+
+Include:
+
+- Data Science Nigeria Ado-Ekiti core team involvement.
+- Deep Learning Indaba Community Showcase participation with Afara.
+- 3MTT DeepTech Ready Upskilling Programme, Community Manager.
+- Former Data Analytics Tutor at TechHUB EKSU.
+- Data Fellows community involvement and domain moderation.
+- Aurora Robotics AEP Community Manager experience.
+
+For each experience, include:
+
+- Organisation or community.
+- Role.
+- Period.
+- Responsibilities.
+- Contributions.
+- Relevant photographs or evidence.
+
+Do not fabricate dates or numerical achievements.
+
+---
+
+# 10. ABOUT / PERSONAL DIMENSION
+
+The website should have some room for my personality.
+
+I do not want it to become excessively corporate.
+
+Potential content:
+
+- What I am curious about.
+- What I am currently learning.
+- Research questions I find interesting.
+- My approach to independent learning.
+- My interest in interdisciplinary work.
+- Books, ideas or resources that have influenced my thinking.
+- Personal reflections on building and learning.
+
+I would also like a small section called:
+
+**"Currently exploring"**
+
+This should be updateable and may include:
+
+- Bioinformatics.
+- Computational biology.
+- Machine learning research.
+- African language technology.
+- AI applications in food systems.
+
+The website should communicate that my journey is evolving.
+
+---
+
+# 11. CONTACT PAGE
+
+The contact page should be clean and inviting.
+
+It should encourage:
+
+- Research collaborations.
+- Academic opportunities.
+- Conference and speaking invitations.
+- Technical collaborations.
+- Mentorship and community engagements.
+- Professional networking.
+
+Include:
+
+- Email address (to be supplied).
+- LinkedIn: linkedin.com/in/favour-falade
+- GitHub: github.com/FaladeF311
+- Other relevant professional platforms, where appropriate.
+- A downloadable CV.
+
+A contact form is optional but desirable.
+
+If included, it should have appropriate spam protection and clear submission feedback.
+
+---
+
+# 12. INTERACTIONS AND ANIMATIONS
+
+This is one of the elements that should make the website distinctive.
+
+I want meaningful interactions, not animations added simply for decoration.
+
+Possible interactions:
+
+### A. Scroll-based storytelling
+
+Sections should reveal themselves naturally as visitors scroll.
+
+Use subtle transitions, text reveals and image movements.
+
+### B. Interactive timeline
+
+Visitors should be able to explore different stages of my journey.
+
+### C. Project interactions
+
+Project previews can respond to hover, revealing descriptions, project categories or navigation prompts.
+
+### D. Animated typography
+
+Some major statements can appear through elegant text transitions.
+
+### E. Navigation
+
+Use smooth navigation and clear active-section indicators.
+
+### F. Micro-interactions
+
+Small details such as link transitions, hover states, image transitions and button feedback should feel polished.
+
+### G. Experimental visual elements
+
+Explore subtle scientific references such as:
+
+- Network connections.
+- Data points.
+- Biological patterns.
+- Abstract scientific diagrams.
+- Research annotations.
+
+These should be restrained and integrated into the visual identity.
+
+Avoid excessive particles, spinning globes, unnecessary 3D objects and distracting animations.
+
+All interactions should respect reduced-motion accessibility preferences.
+
+---
+
+# 13. TECHNICAL REQUIREMENTS
+
+## Recommended technology stack
+
+**Frontend**
+- Next.js.
+- React.
+- TypeScript.
+- Tailwind CSS.
+
+**Animation**
+- Motion (formerly Framer Motion).
+
+**Icons**
+- Lucide Icons.
+
+**Deployment**
+- Vercel.
+
+**Version control**
+- GitHub.
+
+**Content management**
+- Prefer a maintainable content architecture.
+- MDX or a lightweight CMS can be used initially.
+- Recommend a CMS such as Sanity only if the content management needs justify it.
+
+The developer should recommend the most maintainable implementation rather than introducing unnecessary complexity.
+
+## Responsive design
+
+The website must work excellently on:
+
+- Android phones.
+- iPhones.
+- Tablets.
+- Laptops.
+- Large desktop screens.
+
+Mobile is particularly important.
+
+Do not simply shrink the desktop layout to fit a phone. The mobile experience should have its own thoughtful layout and interactions.
+
+## Performance
+
+Requirements:
+
+- Optimized images.
+- Lazy loading where appropriate.
+- Efficient animations.
+- Minimal unnecessary JavaScript.
+- Good Core Web Vitals.
+- Fast initial page loading.
+
+## Accessibility
+
+Implement:
+
+- Proper semantic HTML.
+- Keyboard navigation.
+- Visible focus indicators.
+- Sufficient colour contrast.
+- Descriptive image alt text.
+- Accessible navigation.
+- Reduced-motion support.
+
+## Search engine optimization
+
+Implement:
+
+- Page titles and meta descriptions.
+- Open Graph metadata.
+- Social sharing previews.
+- Sitemap.
+- Robots.txt.
+- Canonical URLs where appropriate.
+- Structured data for a personal/professional website.
+- Descriptive URLs.
+
+The website should be discoverable when someone searches for my name.
+
+## Security and reliability
+
+Include:
+
+- HTTPS.
+- Secure handling of contact-form submissions.
+- No exposed API keys or secrets.
+- Appropriate spam protection.
+- Reliable error handling.
+- Working external links.
+
+---
+
+# 14. CONTENT AND MEDIA MANAGEMENT
+
+I want to be able to update the website as my journey develops.
+
+The developer should make it possible to add:
+
+- New research.
+- New projects.
+- Publications.
+- Conference appearances.
+- Awards and recognitions.
+- Community activities.
+- New photographs.
+- New CV versions.
+
+I do not want to need a complete redesign whenever I have a new achievement.
+
+Please build reusable components and a structured content system.
+
+# 15. DOMAIN AND DEPLOYMENT
+
+I would like a personal domain based on my name.
+
+Possible directions:
+
+- favourfalade.com
+- favourfalade.dev
+- favourfalade.me
+
+The availability of the preferred domain should be checked before registration.
+
+The website should be deployed using Vercel or another suitable platform.
+
+I should own and have administrative access to:
+
+- Domain registration.
+- Hosting account.
+- GitHub repository.
+- Deployment account.
+- Website source code.
+- Any CMS or third-party service used.
+
+All accounts should be created using my own email address wherever possible.
+
+The developer should not retain exclusive control of the website or its infrastructure.
+
+# 16. DELIVERABLES EXPECTED FROM THE DEVELOPER
+
+At project completion, I expect:
+
+1. Fully designed and developed website.
+2. Complete responsive desktop and mobile layouts.
+3. All agreed pages and navigation.
+4. Functional animations and interactions.
+5. Project case-study pages.
+6. Research page.
+7. Interactive timeline.
+8. Contact functionality, if included.
+9. SEO and social-sharing setup.
+10. Optimized images and media.
+11. Source code.
+12. GitHub repository under my ownership.
+13. Deployment to my personal domain.
+14. Documentation explaining how to update the website.
+15. A handover session or walkthrough.
+
+The website should be tested before delivery.
+
+All links, buttons, navigation elements and forms must work.
+
+# 17. IMPORTANT DESIGN RESTRICTIONS
+
+Please avoid:
+
+- Generic developer portfolio templates.
+- Excessive black backgrounds and neon gradients.
+- Generic AI-generated human portraits.
+- Unnecessary 3D graphics.
+- Overcrowded layouts.
+- Excessive animation.
+- Repetitive project cards.
+- Fake statistics.
+- Invented awards or publications.
+- Unverified professional credentials.
+- Overly corporate language.
+- Unnecessary technical jargon in the personal story.
+
+Do not make the website look like an AI agency website.
+
+It should represent an actual person, with a distinctive journey and a genuine interest in science, research and technology.
+
+# 18. SUCCESS CRITERIA
+
+The project will be successful if:
+
+1. The website is visually distinctive and memorable.
+2. A first-time visitor can understand who I am within a few seconds.
+3. My journey from Microbiology into data science and interdisciplinary research is communicated clearly.
+4. My research and projects are presented with technical credibility.
+5. My community and leadership experiences are not overlooked.
+6. The website feels personal without compromising professionalism.
+7. The experience is excellent on mobile and desktop.
+8. The website is easy to maintain and expand.
+9. It is suitable for sharing with international universities, research supervisors, conference organisers, collaborators and potential employers.
+
+**The most important requirement:**
+
+I do not want a website that merely tells people what I have done.
+
+I want a website that helps people understand why I do what I do, how I got here, what questions I am interested in, and what I hope to contribute.
+
+The website should feel like an evolving record of a curious mind and an interdisciplinary journey.
+
+**Working creative concept: THE IN-BETWEEN.**
+
+"Where different worlds meet, new possibilities emerge."
+
+

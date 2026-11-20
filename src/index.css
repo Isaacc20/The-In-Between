@@ -1,0 +1,143 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-serif: "Fraunces", Georgia, Cambria, "Times New Roman", serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --color-espresso: #18110D;
+  --color-cocoa: #211712;
+  --color-mocha: #2B1F19;
+  --color-chestnut: #3F2B20;
+  --color-taupe: #B5A394;
+  --color-cream: #EFE6DB;
+  --color-ivory: #F7F1E8;
+  --color-sand: #DDD0C2;
+  --color-amber-gold: #C9A66B;
+  --color-bronze: #7A4E1D;
+}
+
+@layer base {
+  /* Light Mode: Warm Cream / Ivory Canvas paired with Rich Brown Blocks & Ink */
+  :root {
+    --bg-canvas: #F7F1E8;
+    --bg-recessed: #EDE2D3;
+    --bg-card: #E2D2BF;
+    --bg-block-alt: #D6C0A8;
+    --bg-focal: #3F2B20;
+    --bg-invert: #2B1F19;
+    --bg-nav: rgba(247, 241, 232, 0.94);
+
+    --ink-primary: #1D130E;
+    --ink-body: #3A271D;
+    --ink-muted: #5F4536;
+    --ink-accent: #7A4E1D;
+    --ink-invert: #F7F1E8;
+    --ink-invert-muted: #E3C38C;
+    --ink-focal: #F7F1E8;
+    --ink-focal-body: #E7D8C7;
+    --ink-focal-accent: #E3C38C;
+
+    --border-subtle: rgba(43, 31, 25, 0.14);
+    --selection-bg: rgba(122, 78, 29, 0.22);
+    --focus-ring: #7A4E1D;
+  }
+
+  /* Dark Mode: Deep Espresso Canvas with Mocha, Chestnut & Cream Blocks */
+  .dark {
+    --bg-canvas: #18110D;
+    --bg-recessed: #211712;
+    --bg-card: #2B1F19;
+    --bg-block-alt: #3F2B20;
+    --bg-focal: #3F2B20;
+    --bg-invert: #EFE6DB;
+    --bg-nav: rgba(24, 17, 13, 0.95);
+
+    --ink-primary: #EFE6DB;
+    --ink-body: #DDD0C2;
+    --ink-muted: #B5A394;
+    --ink-accent: #C9A66B;
+    --ink-invert: #18110D;
+    --ink-invert-muted: #6D4E23;
+    --ink-focal: #EFE6DB;
+    --ink-focal-body: #EFE6DB;
+    --ink-focal-accent: #C9A66B;
+
+    --border-subtle: rgba(239, 230, 219, 0.12);
+    --selection-bg: rgba(201, 166, 107, 0.28);
+    --focus-ring: #C9A66B;
+  }
+
+  html {
+    background-color: var(--bg-canvas);
+    color: var(--ink-primary);
+    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: var(--bg-canvas);
+    color: var(--ink-primary);
+    letter-spacing: 0.01em;
+    overflow-x: hidden;
+    transition: background-color 200ms ease, color 200ms ease;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: "Fraunces", Georgia, serif;
+    text-wrap: balance;
+    letter-spacing: -0.018em;
+  }
+
+  ::selection {
+    background-color: var(--selection-bg);
+    color: var(--ink-primary);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--focus-ring);
+    outline-offset: 3px;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media print {
+  header, footer, .no-print {
+    display: none !important;
+  }
+  html, body {
+    background-color: #ffffff !important;
+    color: #18110D !important;
+    letter-spacing: 0 !important;
+  }
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .cv-print-sheet {
+    background-color: #ffffff !important;
+    color: #18110D !important;
+    padding: 0 !important;
+  }
+  .cv-print-sheet * {
+    color: #18110D !important;
+    border-color: #d6ccc2 !important;
+  }
+}
